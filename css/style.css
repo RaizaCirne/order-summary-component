@@ -7,5 +7,5 @@
 
 body {
     background:hsl(225, 100%, 94%);
-    display: flex;
+    width: 100%;
 }
