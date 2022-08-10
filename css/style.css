@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-family: 'Red Hat Display', sans-serif;
 }
+
+body {
+    background:hsl(225, 100%, 94%);
+}
