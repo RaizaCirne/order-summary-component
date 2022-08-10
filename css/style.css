@@ -19,3 +19,7 @@ main {
     background: #FFFFFF;
     max-width: 416px;
 }
+
+main img {
+    width: 100%;
+}
