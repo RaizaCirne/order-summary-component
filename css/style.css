@@ -17,4 +17,5 @@ body {
 
 main {
     background: #FFFFFF;
+    max-width: 416px;
 }
