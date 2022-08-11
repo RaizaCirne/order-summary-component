@@ -56,6 +56,20 @@ main div.informações {
     border-radius: 1rem;
     padding: 1.5rem 1rem;
     margin: 2rem 0;
-  
+}
 
+main .informações .preço-música {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main .informações .preço {
+    display: flex;
+    flex-direction: column;
+}
+
+main .informações img {
+    width: 48px;
+    margin-right: 1rem;
 }
