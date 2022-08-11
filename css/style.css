@@ -41,3 +41,8 @@ main section h1 {
     margin-bottom: 1rem;
     color: hsl(223, 47%, 23%);
 }
+
+main section span {
+    color: hsl(224, 23%, 55%);
+    text-align: center;
+}
