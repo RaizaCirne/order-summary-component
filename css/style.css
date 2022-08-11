@@ -46,3 +46,16 @@ main section span {
     color: hsl(224, 23%, 55%);
     text-align: center;
 }
+
+main div.informações {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background: hsl(225, 100%, 98%);
+    border-radius: 1rem;
+    padding: 1.5rem 1rem;
+    margin: 2rem 0;
+  
+
+}
