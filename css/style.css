@@ -73,3 +73,14 @@ main .informações img {
     width: 48px;
     margin-right: 1rem;
 }
+
+main .informações a {
+    color: hsl(245, 75%, 52%);
+    font-weight:600; 
+    font-size: 90%;
+}
+
+main .informações a:hover {
+    color: hsl(223, 47%, 23%);
+    text-decoration: none;
+}
