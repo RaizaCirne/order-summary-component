@@ -78,6 +78,7 @@ main .informações a {
     color: hsl(245, 75%, 52%);
     font-weight:600; 
     font-size: 90%;
+    transition: all 0.3s;
 }
 
 main .informações a:hover {
