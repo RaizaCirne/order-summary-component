@@ -33,4 +33,5 @@ main section {
     flex-direction: column;
     padding: 0 2rem;
     height: 100%;
+    width: 100%;
 }
