@@ -105,5 +105,14 @@ main button:hover {
 }
 
 #cancelar {
-    
+    text-decoration: none;
+    color: hsl(224, 23%, 55%);
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+    transition: color 0.3s;
+}
+
+#cancelar:hover {
+    color: hsl(223, 47%, 23%);
 }
