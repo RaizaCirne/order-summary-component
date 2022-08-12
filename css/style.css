@@ -88,4 +88,5 @@ main .informações a:hover {
 
 main button {
     cursor: pointer;
+    background: hsl(245, 75%, 52%);;
 }
