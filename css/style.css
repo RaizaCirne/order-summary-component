@@ -93,4 +93,5 @@ main button {
     font-weight: 600;
     border: none;
     width: 100%;
+    padding: 1rem 0;
 }
