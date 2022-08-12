@@ -96,4 +96,5 @@ main button {
     padding: 1rem 0;
     border-radius: 0.8rem;
     margin-bottom: 1.5rem;
+    box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.2);
 }
