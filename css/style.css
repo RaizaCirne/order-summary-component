@@ -90,4 +90,5 @@ main button {
     cursor: pointer;
     background: hsl(245, 75%, 52%);
     color: #FFF;
+    font-weight: 600;
 }
