@@ -98,3 +98,7 @@ main button {
     margin-bottom: 1.5rem;
     box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.2);
 }
+
+main button:hover {
+    background: #766CF1;
+}
