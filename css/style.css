@@ -91,4 +91,5 @@ main button {
     background: hsl(245, 75%, 52%);
     color: #FFF;
     font-weight: 600;
+    border: none;
 }
