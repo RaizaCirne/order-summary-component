@@ -13,12 +13,14 @@ body {
     align-items: center;
     justify-content: center;
     padding: 1rem;
+    margin-bottom: 8rem;
 }
 
 main {
     background: #FFF;
     max-width: 416px;
     border-radius: 1rem;
+    margin-top: 8rem;
 }
 
 main img {
