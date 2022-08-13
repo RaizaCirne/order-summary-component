@@ -1,4 +1,4 @@
-document.getElementById("pagamento").addEventListener("click", validaFormulario)
+document.getElementById("").addEventListener("click", validaFormulario)
 
 function validaFormulario(){
     if (document.getElementById("pagamento").value != ""){
