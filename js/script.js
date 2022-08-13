@@ -1,8 +1,8 @@
-document.getElementById("").addEventListener("click", validaFormulario)
+document.getElementById("cancelar").addEventListener("click", validaFormulario)
 
 function validaFormulario(){
-    if (document.getElementById("pagamento").value != ""){
-        alert ("Prontinho! Você será direcionado para a aba de pagamentos.")
+    if (document.getElementById("cancelar").value != ""){
+        alert ("Seu pedido foi cancelado.")
         }
 }
 
