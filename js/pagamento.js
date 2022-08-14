@@ -7,7 +7,8 @@ function validaFormulario(){
         document.getElementById("validade").value != ""){
         alert ("Prontinho! Agora você já pode ter acesso a todas as playlists de música brasileira.")
         }else{
-        
+            alert("Por favor, preencha os campos com seu email e os dados do cartão!")
+        }
 }
 
 
