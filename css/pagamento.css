@@ -3,3 +3,11 @@
     box-sizing: border-box;
     padding: 0;
 }
+
+section.pagamento {
+    display: flex;
+    max-width: 960px;
+    padding: 0 2%;
+    margin: 10px auto;
+}
+
