@@ -3,6 +3,9 @@
     box-sizing: border-box;
     padding: 0;
 }
+body {
+    background-image: linear-gradient(#f0cccc, #f2e4e4, #f2d5d5);
+}
 
 section.pagamento {
     display: flex;
@@ -24,12 +27,14 @@ section.pagamento {
 }
 
 .descricao-pagamento h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(140, 140, 140)
 }
 
 .descricao-pagamento h2 {
     color: black;
-    font-size: 40px;
+    font-size: 25px;
+    padding: 10px;
 }
 
 .form-pagamento form {
@@ -66,7 +71,7 @@ section.pagamento {
     height: 40px;
     border: 0;
     cursor: pointer;
-    background-color: rgb(0, 116, 212);
+    background-color: #e36666;
     color: white;
 }
 
