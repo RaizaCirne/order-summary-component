@@ -2,7 +2,7 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
-# Versão do Projeto Design para Aplicativo musial 
+# Versão do Projeto Design para Aplicativo musical 
 
 ![Visualização do novo projeto - Página Principal](./design/desktop-novo.png)
 
@@ -16,7 +16,7 @@ Obrigada por conferir este desafio de codificação de front-end.
 
 **No desafio do Frontend Mentor foi usado HTML e CSS.**
 
-# Design para Aplicativo musial 
+# Design para Aplicativo musical 
 
 Através do desafio do Frontend Mentor, realizei uma nova versão onde foram feitas diversas alterações. Acrescentando uma `cor` e `background` com cores diferentes, além de um formulário de pagamento.
 
