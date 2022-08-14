@@ -28,7 +28,7 @@ Construção de um componente do cartão de resumo do pedido  para parecer o mai
 
 ## Objetivo do Projeto
 
-A ideia foi fazer o projeto do Frontend Mentor para treinar o uso do flexbox e responsividade: Realizei a alteração das cores do projeto original e a descrição, acrescentando uma nova página de formulário de pagamento responsivo e com adicão de uma nova funcionalidade com alerta Javascript.
+A ideia da realização do desafio do Frontend Mentor foi treinar o uso do flexbox e responsividade: Realizei a alteração das cores do projeto original e da descrição, acrescentando uma nova página de formulário de pagamento responsivo, com adicão de uma nova funcionalidade com alerta Javascript.
 
 ## Sobre o Projeto
 
