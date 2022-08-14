@@ -89,7 +89,7 @@ main .informações a:hover {
     text-decoration: none;
 }
 
-main button {
+main a button {
     cursor: pointer;
     background: #db4444;
     color: #FFF;
@@ -97,6 +97,8 @@ main button {
     border: none;
     width: 100%;
     padding: 1rem 0;
+    padding-left: 5rem;
+    padding-right: 5rem;
     border-radius: 0.8rem;
     margin-bottom: 1.5rem;
     box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.2);
