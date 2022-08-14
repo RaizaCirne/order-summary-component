@@ -3,8 +3,8 @@
     box-sizing: border-box;
     padding: 0;
 }
-body {
-    background-image: linear-gradient(#f0cccc, #f2e4e4, #f2d5d5);
+body {    
+    background: #f0cccc;;   
 }
 
 section.pagamento {
@@ -24,6 +24,7 @@ section.pagamento {
     box-shadow: -8px 5px 15px 5px #C7C7C7;
     padding: 30px 30px 80px 30px;
     width: 50%;
+    background-color: #f5e4e4;
 }
 
 .descricao-pagamento h3 {
