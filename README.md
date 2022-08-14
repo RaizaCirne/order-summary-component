@@ -2,6 +2,12 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
+# Versão do Projeto Design para Aplicativo musial 
+
+![Visualização do novo projeto - Página Principal](./design/desktop-novo.png)
+
+![Visualização do novo projeto - Página de Formulário](./design/desktop-novo2.png)
+
 ## Bem-vindo! 👋
 
 Obrigada por conferir este desafio de codificação de front-end.
