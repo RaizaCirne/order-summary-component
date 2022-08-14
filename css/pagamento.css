@@ -48,9 +48,13 @@ section.pagamento {
 
 .form-pagamento label {
     display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: rgb(140, 140, 140);
 }
 
 .form-pagamento input[type=text] {
+    padding-left: 10px;
     width: 100%;
     height: 40px;
     border: 1px solid #CCC;
