@@ -7,16 +7,19 @@
 section.pagamento {
     display: flex;
     max-width: 960px;
+    justify-content: space-around;
     padding: 0 2%;
     margin: 90px auto;
 }
 
 .descricao-pagamento {
-    width: 30%;
+    width: 40%;
 }
 
 .form-pagamento {
-    width: 70%;
+    box-shadow: -8px 5px 15px 5px #C7C7C7;
+    padding: 10px 30px;
+    width: 50%;
 }
 
 .descricao-pagamento h3 {
@@ -26,4 +29,30 @@ section.pagamento {
 .descricao-pagamento h2 {
     color: black;
     font-size: 40px;
+}
+
+.form-pagamento form {
+    flex: wrap;
+}
+
+.form-100 {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.form-50 {
+    width: 50%;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.form-pagamento label {
+    display: block;
+}
+
+.form-pagamento input[type=text] {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #CCC;
+
 }
