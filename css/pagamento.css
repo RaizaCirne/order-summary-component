@@ -9,6 +9,7 @@ section.pagamento {
     max-width: 960px;
     justify-content: space-around;
     padding: 0 2%;
+    flex-wrap: wrap;
     margin: 90px auto;
 }
 
@@ -18,7 +19,7 @@ section.pagamento {
 
 .form-pagamento {
     box-shadow: -8px 5px 15px 5px #C7C7C7;
-    padding: 10px 30px;
+    padding: 30px 30px 80px 30px;
     width: 50%;
 }
 
@@ -41,7 +42,7 @@ section.pagamento {
 }
 
 .form-50 {
-    width: 50%;
+    
     display: flex;
     margin-bottom: 10px;
 }
@@ -58,5 +59,21 @@ section.pagamento {
     width: 100%;
     height: 40px;
     border: 1px solid #CCC;
+}
 
+.form-pagamento input[type=submit] {
+    width: 100%;
+    height: 40px;
+    border: 0;
+    cursor: pointer;
+    background-color: rgb(0, 116, 212);
+    color: white;
+}
+
+@media screen and (max-width:768px) {
+    .descricao-pagamento,
+    .form-pagamento {
+        width: 100%;
+        margin-bottom: 40px;
+    }
 }
